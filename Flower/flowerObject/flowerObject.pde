@@ -5,7 +5,6 @@ Flower myFlower3;    // Den fjerde flower class
 
 void setup() {
   size(1500, 1500);    // Canvas size
-  textMode(CENTER);
 
   // Integer variabler
   int r0 = 60;
