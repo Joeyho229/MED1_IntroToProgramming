@@ -76,7 +76,6 @@ class Flower {
   }
 
   void guide() {
-    textMode(CENTER);
     textSize(24);
     fill(#000000);
     text("Click anywhere to reset", x , y);
